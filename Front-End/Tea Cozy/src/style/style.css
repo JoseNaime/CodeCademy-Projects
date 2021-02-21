@@ -1,0 +1,34 @@
+html {
+  font-family: Helvetica, serif;
+  background-color: #0f0f0f;
+  color: seashell;
+  text-align: center;
+}
+
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+#navbar {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  height: 69px;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+#navbar ul {
+  margin: auto;
+}
+
+#navbar ul li {
+  display: inline-block;
+}
+
+ul, ol {
+  list-style: none;
+  padding: 0;
+}

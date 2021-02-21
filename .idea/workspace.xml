@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e74c451b-a437-4ba4-a36b-470504e6f194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PureJavaScript/creditCardChecker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PureJavaScript/mysteriousOrganism.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-End/Tea Cozy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-End/Tea Cozy/src/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dasmoto's Arts &amp; Crafts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/Dasmoto's Arts &amp; Crafts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dasmoto's Arts &amp; Crafts/src/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/Dasmoto's Arts &amp; Crafts/src/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,12 +39,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Front-End/Tea Cozy" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Front-End/Tea Cozy" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Front-End" />
     </key>
@@ -71,7 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1611794889983</updated>
       <workItem from="1611794895223" duration="2511000" />
-      <workItem from="1611878061587" duration="307000" />
+      <workItem from="1611878061587" duration="824000" />
+      <workItem from="1611983627962" duration="141000" />
+      <workItem from="1613887837994" duration="2236000" />
     </task>
     <servers />
   </component>
