@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e74c451b-a437-4ba4-a36b-470504e6f194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PureJavaScript/buildALibrary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PureJavaScript/schoolCatalogue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Tea Cozy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/Tea Cozy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Tea Cozy/src/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/Tea Cozy/src/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
       <workItem from="1611878061587" duration="824000" />
       <workItem from="1611983627962" duration="141000" />
       <workItem from="1613887837994" duration="4209000" />
-      <workItem from="1614733647712" duration="246000" />
+      <workItem from="1614733647712" duration="1641000" />
     </task>
     <servers />
   </component>
