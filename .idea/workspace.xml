@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e74c451b-a437-4ba4-a36b-470504e6f194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PureJavaScript/Message Mixer/message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PureJavaScript/Message Mixer/messageMixer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PureJavaScript/WorkAround/employee.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PureJavaScript/Message Mixer/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/PureJavaScript/MessageMixer/message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PureJavaScript/Message Mixer/messageMixer.js" beforeDir="false" afterPath="$PROJECT_DIR$/PureJavaScript/MessageMixer/messageMixer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <workItem from="1611983627962" duration="141000" />
       <workItem from="1613887837994" duration="4209000" />
       <workItem from="1614733647712" duration="2161000" />
-      <workItem from="1614828116493" duration="335000" />
+      <workItem from="1614828116493" duration="940000" />
     </task>
     <servers />
   </component>
