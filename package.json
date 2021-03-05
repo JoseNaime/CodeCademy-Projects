@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JoseNaime/CodeCademy-Projects/issues"
   },
-  "homepage": "https://github.com/JoseNaime/CodeCademy-Projects#readme"
+  "homepage": "https://github.com/JoseNaime/CodeCademy-Projects#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
