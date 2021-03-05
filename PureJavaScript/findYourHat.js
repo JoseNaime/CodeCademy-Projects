@@ -18,8 +18,7 @@ class Field {
     static generateField(width, height, percentage) {
         let field = [];
 
-        const amountOfHoles = Math.floor((width*height)*(percentage/100))
-        console.log(amountOfHoles);
+        let amountOfHoles = Math.floor((width*height)*(percentage/100))
 
         for (let i = 0; i < height; i++) {
             let line = []
@@ -27,6 +26,13 @@ class Field {
                 line.push('░')
             }
             field.push(line)
+        }
+
+        for (amountOfHoles; amountOfHoles > 0; amountOfHoles--) {
+            const randX = Math.floor(Math.random() * width);
+            const randY = Math.floor(Math.random() * height);
+
+            field[randY][randX] = 'O'
         }
 
         // Set start
@@ -101,7 +107,8 @@ class Field {
     }
 }
 
-const myField = new Field(Field.generateField(10, 5, 20));
+const myField = new Field(Field.generateField(15, 10, 35));
+console.clear(); // Clear screen
 
 while (myField._inGame) {
     myField.print();
